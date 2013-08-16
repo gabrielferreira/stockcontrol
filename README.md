@@ -1,4 +1,4 @@
 stockcontrol
 ============
 
-Stock Controle
+Stock Control
